@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("hello babel"),console.log("foo")})();
